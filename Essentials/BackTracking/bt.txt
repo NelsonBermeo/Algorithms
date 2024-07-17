@@ -1,0 +1,4 @@
+Backtracking is useful for:
+Decision problems - check for feasible solution (a problem with constraints)
+Optimization problems - find best solution
+Enumeration Problems - find all solutions

@@ -1,0 +1,15 @@
+Here we covered:
+1. Linear Search
+2. Binary Search
+3. Array reverse 
+4. Printing Pairs 
+5. Printing Subarrays 
+6. Printing Subarray Max (Brute Force) O(n^3)
+7. Printing Subarray Max (Prefix Sums) O(n^2)
+8. Printing Subarray Max (Kadane's Algorithm) O(n^1)
+
+Problems: 
+1. Maxiumum Subarray
+2. Lower Bound
+3. Sorted Pair Sum
+4. K-Rotate

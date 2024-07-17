@@ -1,0 +1,2 @@
+C++ has some interesting pointer concepts that we have to be aware of.
+& is the address operator

@@ -1,0 +1,1 @@
+You could use the sort function built into c++ with the #include <algorithm> and the run time of this algorithm is O(nlogn), you would use the function as so: sort(arr, arr + n) where n is the size of the array, there is also a function for reverse. Or you could use comparators within a sort function using a seperate function bool compare(int a, int b){return a<b};

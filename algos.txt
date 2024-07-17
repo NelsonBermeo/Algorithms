@@ -1,0 +1,28 @@
+selection sort
+bubble sort
+insertion sort
+swap
+binary Search
+reverse Array
+printing subarrays Max (brute force)
+printing subarrays Max (prefix sums)
+printing subarrays Max (kadane's algorithm)
+counting sort
+linked list simple
+input 2 sentences with cin and calculate sum
+merge sort
+quicksort 
+rotate search
+general example of back tracking on an array
+subsets backtracking 
+ordered subsets lexiographically 
+count the number of digits, alphabets and spaces in a sentence
+take in a paragraph 
+take in a number 
+take in a line
+do basics2 of strings with concat, compare, copy and length
+reverse a string 
+check palindrome backtracking
+put strings into a vector and print them out
+create a 2 d array and print
+explain pointer, dereference
